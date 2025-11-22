@@ -2,7 +2,7 @@
   <header>
     <div class="wrapper">
       <nav>
-        <RouterLink :to="{ name: 'event-list' }">Posts</RouterLink>
+        <RouterLink :to="{ name: 'event-list' }">Events</RouterLink>
         <RouterLink :to="{ name: 'about' }">About Me</RouterLink>
         <RouterLink :to="{ name: 'socks' }">Photos</RouterLink>
         <RouterLink :to="{ name: 'todo-list' }">ToDoList</RouterLink>
